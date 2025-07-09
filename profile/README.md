@@ -1,4 +1,4 @@
-## Dalgo
+# Dalgo
 
 Our open-source data platform enables NGOs to harness the power of data by automating data consolidation, transformation, storage and visualization on a unified platform.
 
@@ -8,7 +8,7 @@ Discord https://discord.gg/mf5VV8MQ
 
 An initiative by Project Tech4Dev https://projecttech4dev.org/
 
-# Upgrade schedule for Dalgo
+## Upgrade schedule for Dalgo
 
 
 |  | Superset | Airbyte | Prefect | EKS k8s | dbt | Elementary | RDS Postgres |
